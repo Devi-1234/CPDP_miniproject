@@ -53,12 +53,14 @@ logs/
 Thumbs.db
 
 # Project specific
-backend/uploads/
 backend/datasets/
+backend/upload/
 *.csv
 *.xlsx
 *.xls
+*.json
 *.pkl
 *.h5
 *.model
+*.weights
 *.joblib 
